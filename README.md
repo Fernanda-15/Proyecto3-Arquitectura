@@ -1,6 +1,6 @@
 # ArquitecturaProyecto1UNA
 
-Proyecto 1
+Proyecto 3
 
 EIF511 - Arquitectura de Información
 
@@ -12,7 +12,7 @@ Adrián Fallas Marín
 
 ## Sitio web
 
-El enlace al proyecto es: [https://una-eif511-proyecto1-peliculasanimada.netlify.app](https://una-eif511-proyecto1-peliculasanimada.netlify.app)
+El enlace al proyecto es: [[https://una-eif511-proyecto1-peliculasanimada.netlify.app](https://una-eif511-proyecto1-peliculasanimada.netlify.app)](https://proyecto3-arquitectura.netlify.app/)
 
 ## Archivos usados
 
