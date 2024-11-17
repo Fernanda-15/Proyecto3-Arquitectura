@@ -1,0 +1,5835 @@
+[
+    {
+        "name": "Tyrion Lannister",
+        "star": "Peter Dinklage",
+        "episodes_appeared": 67,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img":"https://i0.wp.com/www.thewrap.com/wp-content/uploads/2016/04/tyrion-lannister.jpg?resize=618%2C412&ssl=1"
+    },
+    {
+        "name": "Cersei Lannister",
+        "star": "Lena Headey",
+        "episodes_appeared": 62,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://upload.wikimedia.org/wikipedia/en/2/22/Cersei_Lannister_in_Black_Dress_in_Season_5.jpg"
+    },
+    {
+        "name": "Daenerys Targaryen",
+        "star": "Emilia Clarke",
+        "episodes_appeared": 62,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://www.telegraph.co.uk/content/dam/fashion/2017/06/19/TELEMMGLPICT000131421802_trans_NvBQzQNjv4BqkUE_BTgBOQu3VWKvpDGX9fr7sARQy7EgBjwPUzvqL_M.jpeg?imwidth=680"
+    },
+    {
+        "name": "Jon Snow",
+        "star": "Kit Harington",
+        "episodes_appeared": 62,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_sxmR-U7BT-2ZeW2oTs3b2OwRVi3-3rQuQ&s"
+    },
+    {
+        "name": "Sansa Stark",
+        "star": "Sophie Turner",
+        "episodes_appeared": 59,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--VSYNZ7UkZsnG_s7CMMNJpoPOZKGyjV04Q&s"
+    },
+    {
+        "name": "Arya Stark",
+        "star": "Maisie Williams",
+        "episodes_appeared": 59,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/06/06130622/arya-stark.jpeg"
+    },
+    {
+        "name": "Jaime Lannister",
+        "star": "Nikolaj Coster-Waldau",
+        "episodes_appeared": 55,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHU6FuczOvA17jLyOOyn5DDuVdh27EDRekTw&s"
+    },
+    {
+        "name": "Jorah Mormont",
+        "star": "Iain Glen",
+        "episodes_appeared": 52,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://i.namu.wiki/i/8IEq70ajaWUGc60r6P7ng5uAwbb_v9R7VehF_4rUvHx67-8qJnHC3nJioJ4CJ96_hB9HdRxoBpmhCKrZuCTLKA.webp"
+    },
+    {
+        "name": "Samwell Tarly",
+        "star": "John Bradley",
+        "episodes_appeared": 48,
+        "first_appearance": 2011,
+        "last_appearance": 2019,
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2019/02/game_of_thrones-publicity_still_9-h_2019.jpg"
+    },
+    {
+        "name": "Theon Greyjoy",
+        "star": "Alfie Allen",
+        "episodes_appeared": 47,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lord Varys",
+        "star": "Conleth Hill",
+        "episodes_appeared": 46,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Davos Seaworth",
+        "star": "Liam Cunningham",
+        "episodes_appeared": 42,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Brienne of Tarth",
+        "star": "Gwendoline Christie",
+        "episodes_appeared": 42,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Petyr 'Littlefinger' Baelish",
+        "star": "Aidan Gillen",
+        "episodes_appeared": 41,
+        "first_appearance": 2011,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Bran Stark",
+        "star": "Isaac Hempstead Wright",
+        "episodes_appeared": 40,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Sandor 'The Hound' Clegane",
+        "star": "Rory McCann",
+        "episodes_appeared": 38,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Missandei",
+        "star": "Nathalie Emmanuel",
+        "episodes_appeared": 38,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Bronn",
+        "star": "Jerome Flynn",
+        "episodes_appeared": 37,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Podrick Payne",
+        "star": "Daniel Portman",
+        "episodes_appeared": 35,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Grey Worm",
+        "star": "Jacob Anderson",
+        "episodes_appeared": 34,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Eddison Tollett",
+        "star": "Ben Crompton",
+        "episodes_appeared": 34,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Tormund Giantsbane",
+        "star": "Kristofer Hivju",
+        "episodes_appeared": 33,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Grand Maester Pycelle",
+        "star": "Julian Glover",
+        "episodes_appeared": 31,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Melisandre",
+        "star": "Carice van Houten",
+        "episodes_appeared": 29,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Tywin Lannister",
+        "star": "Charles Dance",
+        "episodes_appeared": 27,
+        "first_appearance": 2011,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Gilly",
+        "star": "Hannah Murray",
+        "episodes_appeared": 27,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Margaery Tyrell",
+        "star": "Natalie Dormer",
+        "episodes_appeared": 26,
+        "first_appearance": 2012,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Joffrey Baratheon",
+        "star": "Jack Gleeson",
+        "episodes_appeared": 26,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Catelyn Stark",
+        "star": "Michelle Fairley",
+        "episodes_appeared": 26,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Barristan Selmy",
+        "star": "Ian McElhinney",
+        "episodes_appeared": 25,
+        "first_appearance": 2011,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Stannis Baratheon",
+        "star": "Stephen Dillane",
+        "episodes_appeared": 24,
+        "first_appearance": 2012,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Gendry",
+        "star": "Joe Dempsie",
+        "episodes_appeared": 24,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Hodor",
+        "star": "Kristian Nairn",
+        "episodes_appeared": 23,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Qyburn",
+        "star": "Anton Lesser",
+        "episodes_appeared": 22,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Grenn",
+        "star": "Mark Stanley",
+        "episodes_appeared": 22,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Robb Stark",
+        "star": "Richard Madden",
+        "episodes_appeared": 22,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Loras Tyrell",
+        "star": "Finn Jones",
+        "episodes_appeared": 21,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Shae",
+        "star": "Sibel Kekilli",
+        "episodes_appeared": 20,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Ramsay Bolton",
+        "star": "Iwan Rheon",
+        "episodes_appeared": 20,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Roose Bolton",
+        "star": "Michael McElhatton",
+        "episodes_appeared": 20,
+        "first_appearance": 2012,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Alliser Thorne",
+        "star": "Owen Teale",
+        "episodes_appeared": 19,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Daario Naharis",
+        "star": "Michiel Huisman",
+        "episodes_appeared": 18,
+        "first_appearance": 2014,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Olenna Tyrell",
+        "star": "Diana Rigg",
+        "episodes_appeared": 18,
+        "first_appearance": 2013,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Tommen Baratheon",
+        "star": "Dean-Charles Chapman",
+        "episodes_appeared": 18,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ygritte",
+        "star": "Rose Leslie",
+        "episodes_appeared": 17,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Jaqen H'ghar",
+        "star": "Tom Wlaschiha",
+        "episodes_appeared": 17,
+        "first_appearance": 2012,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Gregor 'The Mountain' Clegane",
+        "star": "HafÃ¾Ã³r JÃºlÃ­us BjÃ¶rnsson",
+        "episodes_appeared": 17,
+        "first_appearance": 2014,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Olly",
+        "star": "Brenock O'Connor",
+        "episodes_appeared": 17,
+        "first_appearance": 2014,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Meryn Trant",
+        "star": "Ian Beattie",
+        "episodes_appeared": 17,
+        "first_appearance": 2011,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Osha",
+        "star": "Natalia Tena",
+        "episodes_appeared": 16,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Yara Greyjoy",
+        "star": "Gemma Whelan",
+        "episodes_appeared": 16,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Meera Reed",
+        "star": "Ellie Kendrick",
+        "episodes_appeared": 16,
+        "first_appearance": 2013,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Wun Wun",
+        "star": "Ian Whyte",
+        "episodes_appeared": 16,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lancel Lannister",
+        "star": "Eugene Simon",
+        "episodes_appeared": 16,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Janos Slynt",
+        "star": "Dominic Carter",
+        "episodes_appeared": 15,
+        "first_appearance": 2011,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Maester Luwin",
+        "star": "Donald Sumpter",
+        "episodes_appeared": 14,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Ros",
+        "star": "EsmÃ© Bianco",
+        "episodes_appeared": 14,
+        "first_appearance": 2011,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Rickon Stark",
+        "star": "Art Parkinson",
+        "episodes_appeared": 14,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Othell Yarwyck",
+        "star": "Brian Fortune",
+        "episodes_appeared": 14,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ellaria Sand",
+        "star": "Indira Varma",
+        "episodes_appeared": 13,
+        "first_appearance": 2014,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Rodrik Cassel",
+        "star": "Ron Donachie",
+        "episodes_appeared": 13,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Beric Dondarrion",
+        "star": "Richard Dormer",
+        "episodes_appeared": 13,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Mace Tyrell",
+        "star": "Roger Ashton-Griffiths",
+        "episodes_appeared": 13,
+        "first_appearance": 2014,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Yohn Royce",
+        "star": "Rupert Vansittart",
+        "episodes_appeared": 13,
+        "first_appearance": 2014,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Pypar",
+        "star": "Josef Altin",
+        "episodes_appeared": 13,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Irri",
+        "star": "Amrita Acharia",
+        "episodes_appeared": 13,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "High Sparrow",
+        "star": "Jonathan Pryce",
+        "episodes_appeared": 12,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Jeor Mormont",
+        "star": "James Cosmo",
+        "episodes_appeared": 12,
+        "first_appearance": 2011,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Maester Wolkan",
+        "star": "Richard Rycroft",
+        "episodes_appeared": 12,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Kevan Lannister",
+        "star": "Ian Gelder",
+        "episodes_appeared": 12,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Rast",
+        "star": "Luke Barnes",
+        "episodes_appeared": 12,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Hot Pie",
+        "star": "Ben Hawkey",
+        "episodes_appeared": 12,
+        "first_appearance": 2011,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Talisa Stark",
+        "star": "Oona Chaplin",
+        "episodes_appeared": 11,
+        "first_appearance": 2012,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Maester Aemon",
+        "star": "Peter Vaughan",
+        "episodes_appeared": 11,
+        "first_appearance": 2011,
+        "last_appearance": 2015
+    },
+    {
+        "name": "The Waif",
+        "star": "Faye Marsay",
+        "episodes_appeared": 11,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Doreah",
+        "star": "Roxanne McKee",
+        "episodes_appeared": 11,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Qhono",
+        "star": "Staz Nair",
+        "episodes_appeared": 11,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Eddard 'Ned' Stark",
+        "star": "Sean Bean",
+        "episodes_appeared": 10,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Thoros of Myr",
+        "star": "Paul Kaye",
+        "episodes_appeared": 10,
+        "first_appearance": 2013,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Selyse Baratheon",
+        "star": "Tara Fitzgerald",
+        "episodes_appeared": 10,
+        "first_appearance": 2013,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Jojen Reed",
+        "star": "Thomas Brodie-Sangster",
+        "episodes_appeared": 10,
+        "first_appearance": 2013,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Shireen Baratheon",
+        "star": "Kerry Ingram",
+        "episodes_appeared": 10,
+        "first_appearance": 2013,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Bowen Marsh",
+        "star": "Michael Condron",
+        "episodes_appeared": 10,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Khal Drogo",
+        "star": "Jason Momoa",
+        "episodes_appeared": 10,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Euron Greyjoy",
+        "star": "Pilou AsbÃ¦k",
+        "episodes_appeared": 9,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Edmure Tully",
+        "star": "Tobias Menzies",
+        "episodes_appeared": 9,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Tyene Sand",
+        "star": "Rosabell Laurenti Sellers",
+        "episodes_appeared": 9,
+        "first_appearance": 2015,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lyanna Mormont",
+        "star": "Bella Ramsey",
+        "episodes_appeared": 9,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Robin Arryn",
+        "star": "Lino Facioli",
+        "episodes_appeared": 9,
+        "first_appearance": 2011,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Renly Baratheon",
+        "star": "Gethin Anthony",
+        "episodes_appeared": 8,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Locke",
+        "star": "Noah Taylor",
+        "episodes_appeared": 8,
+        "first_appearance": 2013,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Obara Sand",
+        "star": "Keisha Castle-Hughes",
+        "episodes_appeared": 8,
+        "first_appearance": 2015,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Hizdahr zo Loraq",
+        "star": "Joel Fry",
+        "episodes_appeared": 8,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Nymeria Sand",
+        "star": "Jessica Henwick",
+        "episodes_appeared": 8,
+        "first_appearance": 2015,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Septa Unella",
+        "star": "Hannah Waddingham",
+        "episodes_appeared": 8,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Myranda",
+        "star": "Charlotte Hope",
+        "episodes_appeared": 8,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Kovarro",
+        "star": "Steven Cole",
+        "episodes_appeared": 8,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Tommen Baratheon",
+        "star": "Callum Wharry",
+        "episodes_appeared": 8,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Myrcella Baratheon",
+        "star": "Aimee Richardson",
+        "episodes_appeared": 8,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Marei",
+        "star": "Josephine Gillan",
+        "episodes_appeared": 8,
+        "first_appearance": 2012,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Robert Baratheon",
+        "star": "Mark Addy",
+        "episodes_appeared": 7,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Oberyn Martell",
+        "star": "Pedro Pascal",
+        "episodes_appeared": 7,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Yoren",
+        "star": "Francis Magee",
+        "episodes_appeared": 7,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Brynden 'Blackfish' Tully",
+        "star": "Clive Russell",
+        "episodes_appeared": 7,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Olyvar",
+        "star": "Will Tudor",
+        "episodes_appeared": 7,
+        "first_appearance": 2013,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Rakharo",
+        "star": "Elyes Gabel",
+        "episodes_appeared": 7,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Bernadette",
+        "star": "Sara Dylan",
+        "episodes_appeared": 7,
+        "first_appearance": 2012,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Walder Frey",
+        "star": "David Bradley",
+        "episodes_appeared": 6,
+        "first_appearance": 2011,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Benjen Stark",
+        "star": "Joseph Mawle",
+        "episodes_appeared": 6,
+        "first_appearance": 2011,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Orell",
+        "star": "Mackenzie Crook",
+        "episodes_appeared": 6,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Areo Hotah",
+        "star": "Deobia Oparei",
+        "episodes_appeared": 6,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Septa Mordane",
+        "star": "Susan Brown",
+        "episodes_appeared": 6,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Black Walder Rivers",
+        "star": "Tim Plester",
+        "episodes_appeared": 6,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Qotho",
+        "star": "Dar Salim",
+        "episodes_appeared": 6,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Dontos Hollard",
+        "star": "Tony Way",
+        "episodes_appeared": 6,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Myrcella Baratheon",
+        "star": "Nell Tiger Free",
+        "episodes_appeared": 6,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Anguy",
+        "star": "Philip McGinley",
+        "episodes_appeared": 6,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "High Septon",
+        "star": "Paul Bentley",
+        "episodes_appeared": 6,
+        "first_appearance": 2013,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Alys Karstark",
+        "star": "Megan Parkinson",
+        "episodes_appeared": 6,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Night's Watch Officer",
+        "star": "Dennis McKeever",
+        "episodes_appeared": 6,
+        "first_appearance": 2011,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Viserys Targaryen",
+        "star": "Harry Lloyd",
+        "episodes_appeared": 5,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Jory Cassel",
+        "star": "Jamie Sives",
+        "episodes_appeared": 5,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lysa Arryn",
+        "star": "Kate Dickie",
+        "episodes_appeared": 5,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Mance Rayder",
+        "star": "CiarÃ¡n Hinds",
+        "episodes_appeared": 5,
+        "first_appearance": 2013,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Craster",
+        "star": "Robert Pugh",
+        "episodes_appeared": 5,
+        "first_appearance": 2012,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Doran Martell",
+        "star": "Alexander Siddig",
+        "episodes_appeared": 5,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Xaro Xhoan Daxos",
+        "star": "Nonso Anozie",
+        "episodes_appeared": 5,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Randyll Tarly",
+        "star": "James Faulkner",
+        "episodes_appeared": 5,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Robett Glover",
+        "star": "Tim McInnerny",
+        "episodes_appeared": 5,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Rickard Karstark",
+        "star": "John Stahl",
+        "episodes_appeared": 5,
+        "first_appearance": 2012,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Dagmer Cleftjaw",
+        "star": "Ralph Ineson",
+        "episodes_appeared": 5,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Walda Bolton",
+        "star": "Elizabeth Webster",
+        "episodes_appeared": 5,
+        "first_appearance": 2014,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Trystane Martell",
+        "star": "Toby Sebastian",
+        "episodes_appeared": 5,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "The Night King",
+        "star": "Vladimir 'Furdo' Furdik",
+        "episodes_appeared": 5,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Archmaester Ebrose",
+        "star": "Jim Broadbent",
+        "episodes_appeared": 4,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Tycho Nestoris",
+        "star": "Mark Gatiss",
+        "episodes_appeared": 4,
+        "first_appearance": 2014,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Balon Greyjoy",
+        "star": "Patrick Malahide",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Pyat Pree",
+        "star": "Ian Hanmore",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Styr",
+        "star": "Yuri Kolokolnikov",
+        "episodes_appeared": 4,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Yezzan zo Qaggaz",
+        "star": "Enzo Cilenti",
+        "episodes_appeared": 4,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Karl Tanner",
+        "star": "Burn Gorman",
+        "episodes_appeared": 4,
+        "first_appearance": 2013,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Ilyn Payne",
+        "star": "Wilko Johnson",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Marillion",
+        "star": "Emun Elliott",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Dickon Tarly",
+        "star": "Tom Hopper",
+        "episodes_appeared": 4,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Qhorin Halfhand",
+        "star": "Simon Armstrong",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Lothar Frey",
+        "star": "Daniel Tuite",
+        "episodes_appeared": 4,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Rorge",
+        "star": "Andy Beckwith",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Lommy Greenhands",
+        "star": "Eros Vlahos",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Matthos Seaworth",
+        "star": "Kerr Logan",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Armeca",
+        "star": "Sahara Knite",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Royal Steward",
+        "star": "Robert Sterne",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Black Lorren",
+        "star": "Forbes KB",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Amory Lorch",
+        "star": "Fintan McKeown",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Biter",
+        "star": "Gerard Jordan",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Young Ned",
+        "star": "Robert Aramayo",
+        "episodes_appeared": 4,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Baby Sam",
+        "star": "William Nevan Wilson",
+        "episodes_appeared": 4,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Baby Sam",
+        "star": "James Robert Wilson",
+        "episodes_appeared": 4,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Timett",
+        "star": "Tobias Winter",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Steelshanks Walton",
+        "star": "Jamie Michie",
+        "episodes_appeared": 4,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Izembaro",
+        "star": "Richard E. Grant",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lady Crane",
+        "star": "Essie Davis",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Spice King",
+        "star": "Nicholas Blane",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Three-Eyed Raven",
+        "star": "Max von Sydow",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Syrio Forel",
+        "star": "Miltos Yerolemou",
+        "episodes_appeared": 3,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Harrag",
+        "star": "Brendan Cowell",
+        "episodes_appeared": 3,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Salladhor Saan",
+        "star": "Lucian Msamati",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Daario Naharis",
+        "star": "Ed Skrein",
+        "episodes_appeared": 3,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Greatjon Umber",
+        "star": "Clive Mantle",
+        "episodes_appeared": 3,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Camello",
+        "star": "Kevin Eldon",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Harald Karstark",
+        "star": "Paul Rattray",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Giant Wight #2",
+        "star": "Neil Fingleton",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Leaf",
+        "star": "Kae Alexander",
+        "episodes_appeared": 4,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Bobono",
+        "star": "Leigh Gill",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Razdal mo Eraz",
+        "star": "George Georgiou",
+        "episodes_appeared": 3,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lhara",
+        "star": "Sarine Sofair",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Clarenzo",
+        "star": "Rob Callender",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Thenn Warg",
+        "star": "Joseph Gatt",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Mirri Maz Duur",
+        "star": "Mia Soteriou",
+        "episodes_appeared": 3,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Polliver",
+        "star": "Andy Kellegher",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Alton Lannister",
+        "star": "Karl Davies",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Khal Moro",
+        "star": "Joseph Naufahu",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ned Umber",
+        "star": "Harry Grasby",
+        "episodes_appeared": 3,
+        "first_appearance": 2017,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Kraznys mo Nakloz",
+        "star": "Dan Hildebrand",
+        "episodes_appeared": 3,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Mossador",
+        "star": "Reece Noi",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "White Walker",
+        "star": "Ross Mullan",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Rattleshirt",
+        "star": "Edward Dogliani",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Vala",
+        "star": "Meena Rayann",
+        "episodes_appeared": 3,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Daisy",
+        "star": "Maisie Dee",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Bathhouse Prostitute",
+        "star": "Samantha Bentley",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Silk King",
+        "star": "Slavko Juraga",
+        "episodes_appeared": 3,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Dothraki Bloodrider #1",
+        "star": "Diogo Sales",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Musician #1",
+        "star": "Nanna BryndÃ­s HilmarsdÃ³ttir",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dothraki Bloodrider #2",
+        "star": "Junade Khan",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Musician #2",
+        "star": "Ragnar ÃÃ³rhallsson",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Musician #3",
+        "star": "Arnar Rosenkranz Hilmarsson",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Musician #4",
+        "star": "Brynjar Leifsson",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Loyal Night's Watchman #2",
+        "star": "Robert Fawsitt",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Musician #5",
+        "star": "KristjÃ¡n KristjÃ¡nsson",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "King's Landing Whore",
+        "star": "Xena Avramidis",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Dothraki Woman Having Sex",
+        "star": "Portia-Valis Volkova",
+        "episodes_appeared": 3,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Aggo",
+        "star": "Chuku Modu",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Frances",
+        "star": "Annette Hannah",
+        "episodes_appeared": 3,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Brothel Patron #5",
+        "star": "Derek Dubery",
+        "episodes_appeared": 3,
+        "first_appearance": 2015,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Hallyne",
+        "star": "Roy Dotrice",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Harry Strickland",
+        "star": "Marc Rissmann",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Illyrio Mopatis",
+        "star": "Roger Allam",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lem Lemoncloak",
+        "star": "JÃ³hannes Haukur JÃ³hannesson",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Smalljon Umber",
+        "star": "Dean Jagger",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Martha",
+        "star": "Bronte Carmichael",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Mord",
+        "star": "Ciaran Bermingham",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Aeron Greyjoy",
+        "star": "Michael Feast",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dim Dalba",
+        "star": "Murray McArthur",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Belicho Paenymion",
+        "star": "Eddie Jackson",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Fergus",
+        "star": "Seamus O'Hara",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Gatins",
+        "star": "Ricky Champ",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Teela",
+        "star": "Bea Glancy",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Old Nan",
+        "star": "Margaret John",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "The Night King",
+        "star": "Richard Brake",
+        "episodes_appeared": 3,
+        "first_appearance": 2014,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Morgan",
+        "star": "Ian Davies",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Woman with Elderly Parents",
+        "star": "Lucy McConnell",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Gregor 'The Mountain' Clegane",
+        "star": "Conan Stevens",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Malko",
+        "star": "Adewale Akinnuoye-Agbaje",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Thin Man",
+        "star": "Oengus MacNamara",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lothar Frey",
+        "star": "Tom Brooke",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Bianca",
+        "star": "Eline Powell",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Vardis Egen",
+        "star": "Brendan McCormack",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Shagga",
+        "star": "Mark Lewis Jones",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Quaithe",
+        "star": "Laura Pradelska",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Margaery Tyrell Mummer",
+        "star": "Eva Butterly",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Old Woman",
+        "star": "Stella McCusker",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Baby Sam",
+        "star": "Logan Watson",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Hugh of the Vale",
+        "star": "Jefferson Hall",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Morag",
+        "star": "Deirdre Monaghan",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Todder",
+        "star": "Will O'Connell",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Johnna",
+        "star": "Ali Lyons",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Willa",
+        "star": "Karla Lyons",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lady Kitty Frey",
+        "star": "Lucy Hayes",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Baby Sam",
+        "star": "Finn Watson",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lyanna Stark",
+        "star": "Aisling Franciosi",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Village Woman",
+        "star": "Eileen McCloskey",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Farlen",
+        "star": "Peter Ballance",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Donnel Waynwood",
+        "star": "Alisdair Simpson",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Drennan",
+        "star": "David Coakley",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Sissy",
+        "star": "Jane McGrath",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Dosh khaleen High Priestess",
+        "star": "Souad Faress",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Zanrush",
+        "star": "Gerald Lepkowski",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "King's Landing Whore",
+        "star": "Emily Diamond",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Ornela",
+        "star": "Hannah John-Kamen",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Young Nan",
+        "star": "Annette Tierney",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Kurleket",
+        "star": "Kevin Keenan",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Winterfell Shepherd",
+        "star": "Donagh Deeney",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "The Tickler",
+        "star": "Anthony Morris",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Ghita",
+        "star": "Hattie Gotobed",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wyllis",
+        "star": "Sam Coleman",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Morgan",
+        "star": "Chris Reilly",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Greizhen mo Ullhor",
+        "star": "Cliff Barry",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Mole's Town Whore",
+        "star": "Lois Winstone",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Willis Wode",
+        "star": "Ryan McKenna",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Jacks",
+        "star": "Paul Caddell",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Goldcloak",
+        "star": "Sam Callis",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "King's Landing Rioter #1",
+        "star": "Reg Wayment",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Ternesio Terys",
+        "star": "Gary Oliver",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Moro's Wife #2",
+        "star": "Fola Evans-Akingbola",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Master Torturer",
+        "star": "Michael Shelford",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Great Master #1",
+        "star": "Emilio Doorgasingh",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Young Ned Stark",
+        "star": "Sebastian Croft",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Young Rodrik Cassel",
+        "star": "Fergus Leathem",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Mhaegen",
+        "star": "Antonia Christophers",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "nan #1",
+        "star": "Will Fortune",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Mole's Town Madam",
+        "star": "Lu Corfield",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Lannister Captain",
+        "star": "Aiden Condron",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Quent",
+        "star": "Aidan Crowe",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Young Benjen Stark",
+        "star": "Matteo Elezi",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dothraki Widow #1",
+        "star": "Angelique Fernandez",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Stark Guard",
+        "star": "David Sheehan",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Mummer #2",
+        "star": "Glen Barry",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Kayla",
+        "star": "Pixie Le Knot",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Manservant",
+        "star": "Conor Watters",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Mummer #3",
+        "star": "Brendan O'Rourke",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tobho Mott",
+        "star": "Andrew Wilde",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Mummer #4",
+        "star": "Ross Anderson-Doherty",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Night's Watchman #1",
+        "star": "Michael Hayes",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dothraki Widow #2",
+        "star": "Wuese Houston-Jibo",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Willem Lannister",
+        "star": "Timothy Gibbons",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Baratheon Soldier #2",
+        "star": "Jason McLaughlin",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Loyal Night's Watchman #1",
+        "star": "Steve Cash",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Night's Watchman #2",
+        "star": "Tony Flynn",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Night's Watchman",
+        "star": "Michael Hooley",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "The Mother",
+        "star": "Em Scribbler",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Male Prostitute",
+        "star": "Dennis Stokes",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "The Maiden",
+        "star": "Rebecca Scott",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "The Crone",
+        "star": "Rosie Ruthless",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Arthur",
+        "star": "Nathanael Saleh",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Little Bird #4",
+        "star": "Jesse Magee",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Little Bird #3",
+        "star": "Michael Nevin",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Little Bird #6",
+        "star": "Lucy Gallagher",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Little Bird #5",
+        "star": "Iona Clarke",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Little Bird #7",
+        "star": "Fionn Kernan",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Three-Eyed Raven",
+        "star": "Struan Rodger",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Joyeuse Frey",
+        "star": "Kelly Long",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Tyrell Lady",
+        "star": "Sophie Reid",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Tommy",
+        "star": "Tommy Dunne",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Leo Lefford",
+        "star": "Vinnie McCabe",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Ironborn #2",
+        "star": "Robert Render",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Brother Ray",
+        "star": "Ian McShane",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Nora",
+        "star": "Laura Elphinstone",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Xela",
+        "star": "Alexis Raben",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #1",
+        "star": "Matthew Wolf",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Karsi",
+        "star": "Birgitte Hjort Sorrensen",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Nora's Daughter",
+        "star": "Tipper Seifert-Cleveland",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Singing Lannister Soldier",
+        "star": "Stephen Swift",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Northern Sentry",
+        "star": "Frank Blake",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Dying Man",
+        "star": "Barry McGovern",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Loboda",
+        "star": "Zachary Baharov",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lannister Soldier #2",
+        "star": "Ryan McKen",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Stark Soldier",
+        "star": "Danny Kirrane",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Unsullied Captain",
+        "star": "Gabriel Akuwudike",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #3",
+        "star": "Owen Whitelaw",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Imry Florent",
+        "star": "Gordon Mahon",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Captain of the Bolton Archers",
+        "star": "Rory Mullen",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Koner",
+        "star": "Joseph Quinn",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Ironborn Lord",
+        "star": "Noel Harron",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Young Woman",
+        "star": "Rori Hawthorn",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Mandon Moore",
+        "star": "James Doran",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Bolton General",
+        "star": "Mark Tankersley",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Northerner in Alley",
+        "star": "Oliver Devoti",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Dornish Prince",
+        "star": "Toby Osmond",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Jhiqui",
+        "star": "Sarita Piotrowski",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Baratheon Officer",
+        "star": "Kieran Cunningham",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Northman Rider",
+        "star": "David Birkbeck",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Melessa Tarly",
+        "star": "Samantha Spiro",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Winterfell Local",
+        "star": "Breige Roche",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Riverlands Lord",
+        "star": "Andrew Bicknell",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #4",
+        "star": "Jim Tighe",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Will",
+        "star": "Bronson Webb",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Captain of the Archers",
+        "star": "Michael Grennell",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Lord of Bones",
+        "star": "Ross O'Hennessy",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Northman Archer",
+        "star": "Paul Garrett",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Stark Soldier",
+        "star": "Eamonn Keenan",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lord Une",
+        "star": "Michael Benbaruk",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Mycah",
+        "star": "Rhodri Hosking",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Jon Arryn",
+        "star": "John Standing",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Mero",
+        "star": "Mark Killeen",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Vale Lord",
+        "star": "Frank Jakeman",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #5",
+        "star": "Luke McQuillan",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Waymar Royce",
+        "star": "Rob Ostlere",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Prendahl na Ghezn",
+        "star": "Ramon Tikaram",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Goatherd",
+        "star": "Philip Arditti",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Northern Lord",
+        "star": "Niall Bishop",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Nicky Harley",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Gared",
+        "star": "Dermot Keaney",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Catspaw Assassin",
+        "star": "Lalor Roddy",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Maester Cressen",
+        "star": "Oliver Ford Davies",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Septon",
+        "star": "Kenneth Hadley",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "First Mate",
+        "star": "Rhodri Miles",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Citadel Maester",
+        "star": "Julian Firth",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Wight at Table",
+        "star": "Javier Botet",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Hayley McQuillan",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Crying Man",
+        "star": "PÃ¡draig O'Grady",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Guard",
+        "star": "Conor Delaney",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Maggy",
+        "star": "Jodhi May",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "The Waif's Disguise",
+        "star": "Margaret Jackman",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Citadel Maester",
+        "star": "Philip O'Sullivan",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Soldier #6",
+        "star": "Adam Devereux",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister",
+        "star": "Eoin Duffy",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Roslin Frey",
+        "star": "Alexandra Dowling",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Anya Waynwood",
+        "star": "Paola Dionisotti",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Bathhouse Prostitute",
+        "star": "Samantha McEwan",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Braavosi Captain",
+        "star": "Morgan C. Jones",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Ironborn #1",
+        "star": "Darrell D'Silva",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Westerosi Trader",
+        "star": "Kevin Horsham",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Street Red Priestess Meereen",
+        "star": "Melanie Liburd",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Goldcloak",
+        "star": "Laurence Spellman",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "nan #2",
+        "star": "Conor Maguire",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #7",
+        "star": "Thomas Martin",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Willa",
+        "star": "Alice Nokes",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "nan #3",
+        "star": "Shane Whisker",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Old Man",
+        "star": "Sean Buckley",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Yunkai'i Whore",
+        "star": "Talitha Luke-Eardley",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Ironborn in Skiff",
+        "star": "Michael Hough",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Black Armored White Walker",
+        "star": "Tim Loane",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Slaver",
+        "star": "Michael Yare",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Bear Island Maester",
+        "star": "Louis Rolston",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Rhaegar Targaryen",
+        "star": "Wilf Scolding",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Fergus' Friend",
+        "star": "Thomas Finnegan",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Sarra",
+        "star": "Danielle Galligan",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #8",
+        "star": "Brian Patrick Kennedy",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Villager 1",
+        "star": "Lorcan Strain",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wine Merchant",
+        "star": "Simon Lowe",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Frey Guard",
+        "star": "A.J. Kennedy",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Prisoner",
+        "star": "Marko Jelic",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Great Master #1",
+        "star": "Gianpiero Cognoli",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Joss",
+        "star": "James McKenzie Robinson",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Volantene Whore #1",
+        "star": "Katie Alexander Thom",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "High Septon Maynard",
+        "star": "Tom Chadbon",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Luna Kalo",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Winterfell Girl",
+        "star": "Emer McDaid",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "nan #4",
+        "star": "Ella-Rose Sands",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Pentoshi Servant",
+        "star": "Rania Zouari",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "High Septon",
+        "star": "David Verrey",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Merry Frey",
+        "star": "Grace Hendy",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Bolton Guard",
+        "star": "Anthony Boyle",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Ralf Kenning",
+        "star": "Grahame Fox",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Pit Announcer",
+        "star": "Nicholas Boulton",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Street Red Priestess Volantis",
+        "star": "Rila Fukushima",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Winter Town Man",
+        "star": "Raymond Keane",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Northman Rioter",
+        "star": "Jed Murray",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tully Bannerman",
+        "star": "Sam Redford",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Aerys Targaryen",
+        "star": "David Rintoul",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Crayah",
+        "star": "Lucy Aarden",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Caitlin Pharro",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Varly",
+        "star": "Graham Charles",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Goldcloak",
+        "star": "Alan Paris",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Hog Farmer",
+        "star": "Pat McGrath",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Elder Meereen Slave",
+        "star": "Philip Philmar",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Great Master #2",
+        "star": "Bobby Asghar",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling Rioter",
+        "star": "Michael Patrick",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dickon Tarly",
+        "star": "Freddie Stroma",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Crossroads Inn Patron",
+        "star": "Ben Fox",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Stark Soldier",
+        "star": "Luke Wilson Hanley",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister General",
+        "star": "Guy Oliver-Watts",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Soldier #9",
+        "star": "Ed Sheeran",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "'Littlefinger' Winterfell Spy",
+        "star": "Adele Smyth-Kennedy",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Northman",
+        "star": "Robbie Beggs",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Dirah",
+        "star": "Marina Lawrence-Mahrra",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Louis McCartney",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "nan #5",
+        "star": "Fionnuala Murphy",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "White Walker #2",
+        "star": "Spencer Wilding",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lannister Guard",
+        "star": "Sam Mackay",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Drowned Priest",
+        "star": "Jonathan Ryan",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Theon's Master of Hounds",
+        "star": "Steve Wilson",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Fennesz",
+        "star": "Trevor Allan Davies",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Tansy",
+        "star": "Jazzy De Lisser",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Goatherd's Son",
+        "star": "Gian Sanghera-Warren",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Braavosi Madam",
+        "star": "Lacy Moore",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Merchant Captain",
+        "star": "Gary Pillai",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Great Master #3",
+        "star": "Peter Silverleaf",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Talla Tarly",
+        "star": "Rebecca Benson",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "King's Landing Boaster",
+        "star": "Dylan Edwards",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lannister Soldier #10",
+        "star": "Matt Faris",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ash",
+        "star": "Yousef 'Joe' Sweid",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Crossroads Inn Patron",
+        "star": "Mark Roper",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Soldier #11",
+        "star": "Thomas Turgoose",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Sin nombre #1",
+        "star": "Rosa Frazer",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Rosie McClelland",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "nan #6",
+        "star": "Roma Tomelty",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Dothraki Crone",
+        "star": "Amira Ghazalla",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Jaremy Rykker",
+        "star": "Jeffrey O'Brien",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Wight Wildling Girl",
+        "star": "Claire Wright",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Captain's Daughter",
+        "star": "Amy Dawson",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Rennick",
+        "star": "David Fynn",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Wendel Manderly",
+        "star": "Oddie Braddell",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "nan #7",
+        "star": "Mackenzie Dean",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Adrack Humble",
+        "star": "Jody Halse",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Morgan's Friend",
+        "star": "Stuart Martin",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Young Braavosi",
+        "star": "Jack Hickey",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Great Master #4",
+        "star": "Davor Jozinovic",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lead Dornish Guard",
+        "star": "Christian Vit",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Moro's Wife #1",
+        "star": "Rubi Ali",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Kesh",
+        "star": "Michael Heath",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ironborn at Brothel",
+        "star": "Neil Keery",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Riddell",
+        "star": "Ross McKinney",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lannister Soldier #12",
+        "star": "Billy Postlethwaite",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "nan #8",
+        "star": "Claire Connor",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Isaac Heslip",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Joss",
+        "star": "Niall Cusack",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Drunk Patron",
+        "star": "Paul Portelli",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Torrhen Karstark",
+        "star": "Tyrone McElhennon",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Drummer",
+        "star": "Will Champion",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Great Master #5",
+        "star": "Ivan Peric",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Kinvara",
+        "star": "Ania Bukstein",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Steve",
+        "star": "Steve Love",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Volantene Whore #2",
+        "star": "Heidi Romanova",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tyrell Bannerman",
+        "star": "RaÃ¼l Tortosa",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lannister Guard",
+        "star": "Adam Slynn",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Winter Town Boy",
+        "star": "Felix Jamieson",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Soldier #13",
+        "star": "Jack Morgan",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Tomard",
+        "star": "Phil Dixon",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Stiv",
+        "star": "Stephen Don",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "King's Landing Baker",
+        "star": "Edward Mercieca",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Goldcloak #1",
+        "star": "Nikovich Sammut",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Karstark Soldier #1",
+        "star": "Neill Fleming",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Lordsport Dockhand",
+        "star": "Jer O'Leary",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Bolton Soldier",
+        "star": "Bryan Quinn",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Leaf",
+        "star": "Octavia Selena Alexandru",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Vance Corbray",
+        "star": "Richard Doubleday",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Valyrian Slave",
+        "star": "Robert Goodman",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Axell Florent",
+        "star": "James McHale",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Innkeeper",
+        "star": "Martin Walsh",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Great Master #6",
+        "star": "Hadi Kermani",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lannister Soldier #14",
+        "star": "Brahm Gallagher",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Khal Forzho",
+        "star": "Tamer Hassan",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Volantene Whore #3",
+        "star": "Danielle Claire Jenner",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Winter Town Woman",
+        "star": "Syd Ralph",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Goldcloak #2",
+        "star": "Seamus Kelly",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Night's Watchman",
+        "star": "Marcus Lamb",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Little Bird",
+        "star": "Tristan Mercieca",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Knight of House Lynderly",
+        "star": "Paddy Rocks",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Old Woman Prisoner",
+        "star": "Gina Moxley",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Mirelle",
+        "star": "Elisa Lasowski",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Sorcerer",
+        "star": "Harold James McMullan",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Unsullied",
+        "star": "Karl Jackson",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Lord Blackmont",
+        "star": "Daniel Rabin",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Great Master #7",
+        "star": "Tonci Banov",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Brothel Guard",
+        "star": "MishaÃ«l Lopes Cardozo",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Faith Militant #1",
+        "star": "Simon Norbury",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Volantene Whore #4",
+        "star": "Ella Hughes",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "The Waif's Disguise",
+        "star": "Adam Turns",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Stevron Frey",
+        "star": "Colin Carnegie",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Eon Hunter",
+        "star": "Barrington Cullen",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Gerald",
+        "star": "Ken Fletcher",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Boat Commander",
+        "star": "Michael Power",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Musician #1",
+        "star": "Jon Thor Birgisson",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Goatherd",
+        "star": "Darren Kent",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Kegs",
+        "star": "Tim Landers",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Derek",
+        "star": "Ian Lloyd Anderson",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lollys Stokeworth",
+        "star": "Elizabeth Cadwallader",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Despondent Man",
+        "star": "David Garlick",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Faith Militant #2",
+        "star": "Jack Olohan",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Volantene Whore #5",
+        "star": "Zoi Gorman",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Winter Town Woman",
+        "star": "Katie Tumelty",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Ryger Rivers",
+        "star": "Bryan McCaugherty",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Night's Watch Deserter",
+        "star": "Barry O'Connor",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "King's Landing Rioter #2",
+        "star": "Marko Juraga",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Colen of Greenpools",
+        "star": "Darren Killeen",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Wounded Lannister",
+        "star": "Emmet O'Riabhaigh",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Protestor",
+        "star": "Edward Tudor-Pole",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Margaery's Handmaiden",
+        "star": "Aisling Jarrett-Gavin",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Frey Soldier #1",
+        "star": "Ciaran O'Grady",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Riverlands Traveller",
+        "star": "Joe Purcell",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Musician #2",
+        "star": "Orri P. Dyrason",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Black Jack Bulwer",
+        "star": "Cormac McDonagh",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Ser Endrew Tarth",
+        "star": "Dez McMahon",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Craster's Wife #2",
+        "star": "Aeryn Walker",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Brant",
+        "star": "Jonathan Byrne",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Faceless Man",
+        "star": "Cedric Henderson",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Sellsword #1",
+        "star": "Matt McArdle",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Second Son",
+        "star": "Slavko Sobin",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Rickard Stark",
+        "star": "Wayne Foskett",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ironborn Abusing a Volantene Whore",
+        "star": "Billy King",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Poisoned Frey",
+        "star": "Paul Ward",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "King's Landing Urchin",
+        "star": "Stephen Grech",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Beric Dondarrion",
+        "star": "David Michael Scott",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Tortured Prisoner",
+        "star": "Donal Gallery",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Karstark Soldier #2",
+        "star": "Duncan Lacroix",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "King's Landing Rioter #3",
+        "star": "Rea Separovic",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Orphan Kid",
+        "star": "Max Barber",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Karstark Lookout",
+        "star": "Shaun Blaney",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "King's Landing Tailor",
+        "star": "Joe Cassidy",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Frey Soldier #2",
+        "star": "Michael Liebmann",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Musician #3",
+        "star": "Georg Holm",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Craster's Wife #3",
+        "star": "Cheryl Lester",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Farmer Hamlet",
+        "star": "Finbar Lynch",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Mully",
+        "star": "Andy Moore",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Tyrell Guard",
+        "star": "Nikola Bace",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Sellsword #2",
+        "star": "Eddie Elks",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lannister Guard #1",
+        "star": "Danny O'Connor",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lead Kingsguard",
+        "star": "Paddy Wallace",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Arthur Dayne",
+        "star": "Luke Roberts",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Frey Lord",
+        "star": "Brendan Morrissey",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Reginald Lannister",
+        "star": "Patrick FitzSymons",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Brothel Customer",
+        "star": "Derek Reid",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Violet",
+        "star": "Stephanie Blacker",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Fruit Vendor",
+        "star": "Alex Mileman",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Tyrell Servant",
+        "star": "Will Rastall",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Warlock",
+        "star": "Lottie Steer",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "King Joffrey Baratheon Dwarf",
+        "star": "Raymond Griffiths",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Wight",
+        "star": "Alice Hewkin",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Little Bird",
+        "star": "Samuel Paul Small",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Clea",
+        "star": "Gwyneth Keyworth",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Brusco",
+        "star": "Garry Mountaine",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Foreign Merchant",
+        "star": "Allon Sylvain",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Gerold Hightower",
+        "star": "Eddie Eyre",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lannister Captain",
+        "star": "Richard Laing",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Iggo",
+        "star": "Deon Lee-Williams",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Sick Maester",
+        "star": "Eamonn Draper",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Rickard Karstark",
+        "star": "Steve Blount",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Unsullied",
+        "star": "Rhys Howells",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "nan #9",
+        "star": "Jon Freeman",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Whore #1",
+        "star": "Kristen Gillespie",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "King Stannis Baratheon Dwarf",
+        "star": "Maxwell Laird",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Sailor",
+        "star": "Dylan McDonough",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Beggar Woman",
+        "star": "Emina Muftic",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Denys Mallister",
+        "star": "J.J. Murphy",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Young Cersei Lannister",
+        "star": "Nell Williams",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Khal Brozho",
+        "star": "Elie Haddad",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Jonos Bracken",
+        "star": "Gerry O'Brien",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Stark Messenger",
+        "star": "Moe Dunford",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Jaqen's Disguise",
+        "star": "Patrick O'Kane",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Desmond Crakehall",
+        "star": "Maro Drobnic",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Guymon",
+        "star": "Jem Wall",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "King Renly Baratheon Dwarf",
+        "star": "Dean Whatton",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "nan #10",
+        "star": "Rob Brockman",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Baratheon General",
+        "star": "Nigel O'Neill",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Melara Hetherspoon",
+        "star": "Isabella Steinbarth",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Braavosi Woman #1",
+        "star": "Kate Anthony",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Khal Rhalko",
+        "star": "Andrei Claude",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Young Lyanna Stark",
+        "star": "Cordelia Hill",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Knight of House Frey",
+        "star": "Patrick Ryan",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lannister Messenger",
+        "star": "Simon Stewart",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lannister Torturer",
+        "star": "Mark Byatt",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Northern Lord",
+        "star": "Pat Mooney",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Stark Soldier",
+        "star": "Michael Shaeffer",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Yunkai'i Slave #1",
+        "star": "Marin Tudor",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "King Robb Stark Dwarf",
+        "star": "George Appleby",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Innkeeper's Daughter",
+        "star": "Gabrielle Dempsey",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Olly's Mother",
+        "star": "Raewyn Lippert",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Street Tough #1",
+        "star": "Tom Fava",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Septa Moelle",
+        "star": "Maggie Hayes",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "White Rat",
+        "star": "Marcos James",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "nan #11",
+        "star": "Daniel Johnson",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Anara",
+        "star": "Ollie Kram",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Citadel Maester",
+        "star": "Frank Hvam",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Khal Qorro",
+        "star": "Darius Dar Khan",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Braavosi Woman #2",
+        "star": "Sally Mortemore",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Serving Girl",
+        "star": "Kate Dempsey",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Addam Marbrand",
+        "star": "B.J. Hogg",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Vayon Poole",
+        "star": "Matthew Scurfield",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Yunkai'i Slave #2",
+        "star": "Roxana Kadyrova",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Bolton Soldier",
+        "star": "Gary Lightbody",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "King Balon Greyjoy Dwarf",
+        "star": "Krysten Coombs",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Whore #2",
+        "star": "Maria Sikavica",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "nan #12",
+        "star": "Richard Fitzwell",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Strong Sam Stone",
+        "star": "Allan Gildea",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Septa Scolera",
+        "star": "Mary Jordan",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Mallister Supporter",
+        "star": "Derek Lord",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Brea",
+        "star": "Gemita Samarra",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Masha Heddle",
+        "star": "Susie Kelly",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Stark Guard",
+        "star": "Faolan Morgan",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Night's Watch Messenger",
+        "star": "Frank O'Sullivan",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Septon",
+        "star": "Terry Byrne",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Qartheen Woman",
+        "star": "Kristina Krepela",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Craster's Wife",
+        "star": "Michelle Costello",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Yunkai'i Slave #3",
+        "star": "Jamal Ouarraq",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Eyrie Guard",
+        "star": "Paul Kennedy",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Whore",
+        "star": "Irma Mali",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Brothel Customer",
+        "star": "Ben Yates",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Night's Watchman #2",
+        "star": "RuairÃ­ Heading",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lannister Soldier #15",
+        "star": "Ciaran McMahon",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Yunkai'i Slave #4",
+        "star": "El Hasani",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Craster's Younger Wife",
+        "star": "Lisa Walsh",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Sparring Boy",
+        "star": "Stephen Brown",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Street Tough #2",
+        "star": "Winston Davis",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Aya",
+        "star": "Aifric O'Donnell",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Brothel Child #1",
+        "star": "Ella Tweed",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Bolton Officer",
+        "star": "Andrew Bryan",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lannister Scout",
+        "star": "Chris Gallagher",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Rhaego",
+        "star": "Wren Ros Elliot-Sloan",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Yunkai'i Slave #5",
+        "star": "Mustapha Mekanassi",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Maester Helliweg",
+        "star": "Joe Hewetson",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Brothel Child #2",
+        "star": "Isabelle Jones",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Inn Waitress",
+        "star": "Irene Kelleher",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lannister Guard #2",
+        "star": "Fiach Kunz",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Handmaid",
+        "star": "Sabrina Bartlett",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Bolton Soldier",
+        "star": "Tristan Heanue",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ironborn #3",
+        "star": "James Lecky",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Stark Guard",
+        "star": "Rick Burn",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Genna",
+        "star": "Kylie Harris",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Son of the Harpy",
+        "star": "Curtis-Lee Ashqar",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Baratheon Soldier #1",
+        "star": "David Fennelly",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Lannister Guard #3",
+        "star": "Michael Johnston",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Meereenese Homeless Mother",
+        "star": "Sabina Arthur",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tommen's Attendant",
+        "star": "Dermot Ward",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Red Keep Stableboy",
+        "star": "Hugo Culverhouse",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Night's Watchman",
+        "star": "Patrick J Molloy",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Dwarf Hunter #1",
+        "star": "Jonathan Gunning",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Maester Caleotte",
+        "star": "Colin Azzopardi",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tommen's Manservant",
+        "star": "Aron Hegarty",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Chella",
+        "star": "Natalia Lee",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Gordy",
+        "star": "Tristan McConnell",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Dwarf Hunter #2",
+        "star": "Alan McKee",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wyman Manderly",
+        "star": "Sean Blowers",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Lord Portan",
+        "star": "Gordon Fulton",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Farmer's Daughter",
+        "star": "Trixiebell Harrowell",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Simpson",
+        "star": "Laurence O'Fuarain",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Cley Cerwyn",
+        "star": "Tom Varey",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tourney Herald",
+        "star": "Marko Cindric",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Tortured Slave",
+        "star": "Mark Drake",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Woodcutter",
+        "star": "Ralph Clemente",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Dothraki Man Having Sex",
+        "star": "Oliver Stockwell",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "King's Landing Drunkard",
+        "star": "Anthony John Crocker",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Great Master #2",
+        "star": "Derek Horsham",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "King's Landing Whore",
+        "star": "Kirsty Nicholls",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Meereen Slave",
+        "star": "Joshua Sher",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "King's Landing Flasher #1",
+        "star": "Munro Graham",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "King's Landing Flasher #2",
+        "star": "Ben Kelly",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Cersei Body Double",
+        "star": "Rebecca Van Cleave",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "The Bear",
+        "star": "Bart the Bear",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Night's Watch Officer",
+        "star": "Michael Stuart",
+        "episodes_appeared": 19,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Baratheon Soldier",
+        "star": "Graeme Peacock",
+        "episodes_appeared": 11,
+        "first_appearance": 2012,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Baratheon Soldier",
+        "star": "Mark Quigley",
+        "episodes_appeared": 11,
+        "first_appearance": 2014,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Stark Soldier",
+        "star": "Andrew McClay",
+        "episodes_appeared": 10,
+        "first_appearance": 2015,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Night's Watch",
+        "star": "Bobby Marno",
+        "episodes_appeared": 10,
+        "first_appearance": 2015,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Baratheon Soldier",
+        "star": "James Bleakney",
+        "episodes_appeared": 9,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Ironborn",
+        "star": "Logan Bruce",
+        "episodes_appeared": 6,
+        "first_appearance": 2013,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Brotherhood Member",
+        "star": "Tyrone Kearns",
+        "episodes_appeared": 6,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Knight of the Vale",
+        "star": "Micheal Fitzgerald",
+        "episodes_appeared": 6,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Unsullied",
+        "star": "Stephen Presley",
+        "episodes_appeared": 6,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Unsullied",
+        "star": "Andrew Watson",
+        "episodes_appeared": 6,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Northern Lord",
+        "star": "Robert Brown",
+        "episodes_appeared": 5,
+        "first_appearance": 2015,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Knight",
+        "star": "FrÃ©dÃ©ric AndrÃ©",
+        "episodes_appeared": 4,
+        "first_appearance": 2011,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Craster's Wife",
+        "star": "Kristy Robinson",
+        "episodes_appeared": 4,
+        "first_appearance": 2012,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling",
+        "star": "Jessica Odell",
+        "episodes_appeared": 4,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Stark Archer",
+        "star": "Patrick Kelly",
+        "episodes_appeared": 4,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Nobleman",
+        "star": "Frank Cannon",
+        "episodes_appeared": 3,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dothraki woman",
+        "star": "Mariola Sanz",
+        "episodes_appeared": 3,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Meereen Guard",
+        "star": "Juan Carlos MartÃ­nez AntuÃ±a",
+        "episodes_appeared": 3,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Unsullied Soldier",
+        "star": "Jaryd Headley",
+        "episodes_appeared": 3,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wildling",
+        "star": "Brian Kearns",
+        "episodes_appeared": 3,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lord Galbart Glover",
+        "star": "Mark Coney",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Mikken",
+        "star": "Boyd Rankin",
+        "episodes_appeared": 2,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Nobleman",
+        "star": "Aaron Archer",
+        "episodes_appeared": 2,
+        "first_appearance": 2012,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Frey Wedding Guest",
+        "star": "Darragh O'Connor",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Frey Wedding Guest",
+        "star": "Laurence Doherty",
+        "episodes_appeared": 2,
+        "first_appearance": 2013,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Night's Watch",
+        "star": "Gerald McMullan",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Dothraki Rider",
+        "star": "Daniel Naprous",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2017
+    },
+    {
+        "name": "King's Landing Handmaiden",
+        "star": "Niamh Lennon",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Mole's Town Whore",
+        "star": "Marion McDowell",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Tyrell Cousin",
+        "star": "Kylie Zimmer",
+        "episodes_appeared": 2,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Burning Lannister",
+        "star": "Calvin Warrington-Heasman",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Tully Soldier",
+        "star": "Simon Millar",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Wildling",
+        "star": "Jessica Stevenson",
+        "episodes_appeared": 2,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Karstark Soldier",
+        "star": "Peter Rooney",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Bolton Infantry",
+        "star": "Kevin-Barry Brown",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Kingsland Taverner",
+        "star": "Michael William Burns",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Braavosi Theatre Server",
+        "star": "Tamsin Greene Barker",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Braavosi Theatre Sound Artist",
+        "star": "Kiran Shah",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Meereen Guard",
+        "star": "Hugh Yeaman",
+        "episodes_appeared": 2,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Captured Wight",
+        "star": "Michael Byrch",
+        "episodes_appeared": 2,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lady of Winterfell",
+        "star": "Canan Avsar",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Dothraki Rider",
+        "star": "Spencer Collings",
+        "episodes_appeared": 2,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Baratheon Guard",
+        "star": "Phil Barnhill",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Prostitute",
+        "star": "Caroline Davis",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Winterfell Beekeeper",
+        "star": "Owen Dickey",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Mago",
+        "star": "Ivailo Dimitrov",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lady of Eyrie Landing (2011)",
+        "star": "Bernadette Dobbin",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Peasant",
+        "star": "Melissa Reid",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Lannister Guard",
+        "star": "James Tolcher",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "King's Guard",
+        "star": "Robert Yates",
+        "episodes_appeared": 1,
+        "first_appearance": 2011,
+        "last_appearance": 2011
+    },
+    {
+        "name": "Baratheon Archer",
+        "star": "Robert Atkinson",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Wight",
+        "star": "Noel Cecil",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Black Knight",
+        "star": "Jonathan Cohen",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Lannister Archer",
+        "star": "Hugh Irvine",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Weasel",
+        "star": "Paul Kealyn",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Selyse Baratheon",
+        "star": "Sarah Mac Keever",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Young Nobleman",
+        "star": "Filip Lozic",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Stark Guard",
+        "star": "Paul Monahan",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Craster's Daughter",
+        "star": "Ginger A. Taylor",
+        "episodes_appeared": 1,
+        "first_appearance": 2012,
+        "last_appearance": 2012
+    },
+    {
+        "name": "Riverrun Nobleman",
+        "star": "Matt Butcher",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Marianne Frey",
+        "star": "Katie Creaven",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Musician",
+        "star": "Kevin McCann",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Hoster Tully",
+        "star": "Christopher Newman",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Bathhouse Boy",
+        "star": "Niall O'Donnell",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Khaleesi Handmaiden #1",
+        "star": "Rachel Puchkoff",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Yunkai Citizen",
+        "star": "Mustapha Rachidi",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Dothraki",
+        "star": "Omar Youssef",
+        "episodes_appeared": 1,
+        "first_appearance": 2013,
+        "last_appearance": 2013
+    },
+    {
+        "name": "Noble Man",
+        "star": "Neil Baltus",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Waitress",
+        "star": "Emma Bryant",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Cooper",
+        "star": "Joe Claflin",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Dragonstone waiter",
+        "star": "Bryan Cogman",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Stannis Guard",
+        "star": "Oisin De Lange",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Wedding Guest",
+        "star": "Paul Herbert",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Inn Customer",
+        "star": "Phelim Kelly",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Frey Serving Boy",
+        "star": "Mark Kelvin Ryan",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Noble Lady",
+        "star": "Stella Lutz",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Night's Watch Archer",
+        "star": "Neil Marshall",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Donnel Hill",
+        "star": "Jack Roth",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Wedding Band",
+        "star": "Sigur RÃ³s",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Wedding Guest",
+        "star": "C.C. Smiff",
+        "episodes_appeared": 1,
+        "first_appearance": 2014,
+        "last_appearance": 2014
+    },
+    {
+        "name": "Strong Fighter",
+        "star": "Adam Basil",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Fighter",
+        "star": "Roman Beguns",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling",
+        "star": "Brann Dailor",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Fighter",
+        "star": "Rob de Groot",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling Archer",
+        "star": "Jenny Edgar",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wight",
+        "star": "Cassie Friel",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling",
+        "star": "Brent Hinds",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Slave",
+        "star": "Terence Hughes",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Pit Fighter",
+        "star": "Charles Jarman",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wilding Gladiator",
+        "star": "Danko Jordanov",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling",
+        "star": "Bill Kelliher",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Night's Watch Recruit",
+        "star": "Christopher Kinkead",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling Archer",
+        "star": "Chelsea Mainwaring",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wight",
+        "star": "Barrie Martin",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling",
+        "star": "Elaine O'Dwyer",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Wildling",
+        "star": "Royd Tolkien",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Passerby",
+        "star": "Kerim Topcic",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Unsullied Guard",
+        "star": "Pablo Verdejo",
+        "episodes_appeared": 1,
+        "first_appearance": 2015,
+        "last_appearance": 2015
+    },
+    {
+        "name": "Volantene Whore",
+        "star": "Raquel Arraes",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Child of the Forest #1",
+        "star": "Kristina Baskett",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Child of the Forest #2",
+        "star": "Rachelle Beinart",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Tavern Maid",
+        "star": "Elynia Betts",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Volantene Whore",
+        "star": "Susan Christie",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Frey Daughter",
+        "star": "Milly Burke Cunningham",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Quinn",
+        "star": "Oryan Landa",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "'That's Right' Man",
+        "star": "Jose Mellinas",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Child of the Forest #3",
+        "star": "Casey Michaels",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Volantene Whore",
+        "star": "Sophia Smith",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Healtor Troop",
+        "star": "Gary Wales",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Howland Reed",
+        "star": "Leo Woodruff",
+        "episodes_appeared": 1,
+        "first_appearance": 2016,
+        "last_appearance": 2016
+    },
+    {
+        "name": "Dothraki Rider",
+        "star": "Charlie Barrett",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Traveller",
+        "star": "Dario Cannizzaro",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Woman in King's Landing",
+        "star": "Carolina Castellano",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Wildling",
+        "star": "Dan Euston",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Guard",
+        "star": "Christian Gimse",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Soldier #16",
+        "star": "SeÃ¡n McGillicuddy",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Night's Watch",
+        "star": "Brendan McGivern",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Tyrell Guard",
+        "star": "Ross Moneypenny",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Burning Lannister",
+        "star": "Douglas Robson",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Map Painter",
+        "star": "Jim Stanes",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Lannister Spearman",
+        "star": "Noah Syndergaard",
+        "episodes_appeared": 1,
+        "first_appearance": 2017,
+        "last_appearance": 2017
+    },
+    {
+        "name": "Unsullied",
+        "star": "Louis Agbodo",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Lorenzo Antonucci",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wildling #2",
+        "star": "David Benioff",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Archer",
+        "star": "Brian Black",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Alanna",
+        "star": "Kim Chapman",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Soldier",
+        "star": "Sophie Ellis-Bextor",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Ironborn #3",
+        "star": "Dave Hill",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wight",
+        "star": "Jack Hudson",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Soldier",
+        "star": "Richard Jones",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Ironborn #1",
+        "star": "Rob McElhenney",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Patrick McGilligan",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Stark Guard",
+        "star": "Jesse Morris",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Officer",
+        "star": "Duncan Muggoch",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Grieving Daughter",
+        "star": "Michelle O'Flaherty",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Lannister Guard",
+        "star": "Adam Quigley-Nixon",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "King's Landing Citizen",
+        "star": "Aaron Rodgers",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Old Man",
+        "star": "Derek Smith",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wildling Wight",
+        "star": "Chris Stapleton",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Ironborn #2",
+        "star": "Martin Starr",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Soldier",
+        "star": "Vasco Temudo",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wildling #1",
+        "star": "D.B. Weiss",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    },
+    {
+        "name": "Wight",
+        "star": "Gareth Wright",
+        "episodes_appeared": 1,
+        "first_appearance": 2019,
+        "last_appearance": 2019
+    }
+]

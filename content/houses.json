@@ -1,0 +1,271 @@
+[
+    {
+        "name": "Stark",
+        "characters": [
+            "Arya Stark",
+            "Benjen Stark",
+            "Bran Stark",
+            "Catelyn Stark",
+            "Eddard Stark",
+            "Ghost",
+            "Grey Wind",
+            "Jon Snow",
+            "Lady",
+            "Nymeria",
+            "Rickon Stark",
+            "Robb Stark",
+            "Sansa Stark",
+            "Shaggydog",
+            "Summer"
+        ],
+        "regions": [
+            "North"
+        ],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/9/9b/Stark_Sigil.jpg"
+    },
+    {
+        "name": "Targaryen",
+        "characters": [
+            "Daenerys Targaryen",
+            "Drogon",
+            "Rhaegal",
+            "Viserion",
+            "Viserys Targaryen"
+        ],
+        "regions": [
+            "Crownlands"
+        ],
+        "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/2d/Casa-Targaryen-escudo.PNG/revision/latest?cb=20230216135718&path-prefix=pt-br"
+    },
+    {
+        "name": "Baratheon",
+        "characters": [
+            "Joffrey Baratheon",
+            "Myrcella Baratheon",
+            "Renly Baratheon",
+            "Robert Baratheon",
+            "Selyse Baratheon",
+            "Shireen Baratheon",
+            "Stannis Baratheon",
+            "Tommen Baratheon",
+            "Gendry"
+        ],
+        "regions": [
+            "Crownlands",
+            "Stormlands"
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Ob6QPxNAh_Ib55tMIcC9dVs2q1Syq5WL_w&s"
+    },
+    {
+        "name": "Lannister",
+        "characters": [
+            "Cersei Lannister",
+            "Jaime Lannister",
+            "Kevan Lannister",
+            "Lancel Lannister",
+            "Tyrion Lannister",
+            "Tywin Lannister"
+        ],
+        "regions": [
+            "Westerlands",
+            "Riverlands"
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhpCKyoteqxSSYuK7EAjDlh6inI0pH2SO4Q&s"
+    },
+    {
+        "name": "Night's Watch",
+        "characters": [
+            "Alliser Thorne",
+            "Eddison Tollett",
+            "Grenn",
+            "Jeor Mormont",
+            "Karl Tanner",
+            "Maester Aemon",
+            "Olly",
+            "Othell Yarwyck",
+            "Pypar",
+            "Qhorin Halfhand",
+            "Rast",
+            "Samwell Tarly",
+            "Yoren"
+        ],
+        "regions": []
+    },
+    {
+        "name": "Dothraki",
+        "characters": [
+            "Doreah",
+            "Irri",
+            "Khal Drogo",
+            "Rakharo",
+            "Qhono"
+        ],
+        "regions": [],
+         "img": "https://i.pinimg.com/564x/e4/29/9f/e4299f0ee175537995ff4f8e550a50a8.jpg"
+    },
+    {
+        "name": "Greyjoy",
+        "characters": [
+            "Balon Greyjoy",
+            "Euron Greyjoy",
+            "Theon Greyjoy",
+            "Yara Greyjoy"
+        ],
+        "regions": [
+            "Iron Islands"
+        ],
+         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUqrt69gt8uV6Z8LCTiPDg-9_GKETYfqGEQ&s"
+    },
+    {
+        "name": "Tyrell",
+        "characters": [
+            "Loras Tyrell",
+            "Mace Tyrell",
+            "Margaery Tyrell",
+            "Olenna Tyrell"
+        ],
+        "regions": [
+            "Reach"
+        ],
+         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiimcUuxYhqoOKxA0NgYQ7QIlwe2Fko8RXSw&s"
+    },
+    {
+        "name": "Wildlings",
+        "characters": [
+            "Baby Sam",
+            "Craster",
+            "Gilly",
+            "Mag the Mighty",
+            "Mance Rayder",
+            "Osha",
+            "Rattleshirt",
+            "Thenn Warg",
+            "Tormund Giantsbane",
+            "Wun Wun",
+            "Ygritte"
+        ],
+        "regions": [],
+         "img": "https://static.tvtropes.org/pmwiki/pub/images/free_folk_main_shield.png"
+    },
+    {
+        "name": "Martell",
+        "characters": [
+            "Doran Martell",
+            "Ellaria Sand",
+            "Nymeria Sand",
+            "Obara Sand",
+            "Oberyn Martell",
+            "Trystane Martell",
+            "Tyene Sand"
+        ],
+        "regions": [
+            "Dorne"
+        ],
+         "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/711cb8fc-43d7-4a59-84b1-aadcadb32e7f/d5fu4lb-263aa67c-2d26-4420-b945-6dc6856af50e.jpg/v1/fill/w_900,h_507,q_75,strp/house_martell___sigil_wallpaper_by_garyckarntzen_d5fu4lb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvNzExY2I4ZmMtNDNkNy00YTU5LTg0YjEtYWFkY2FkYjMyZTdmXC9kNWZ1NGxiLTI2M2FhNjdjLTJkMjYtNDQyMC1iOTQ1LTZkYzY4NTZhZjUwZS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.6Udm5NFJHbpFdTI90xL5pKLHAeGvcKkvwXuGLiWIG6w"
+    },
+    {
+        "name": "Frey",
+        "characters": [
+            "Black Walder Rivers",
+            "Lothar Frey",
+            "Walder Frey"
+        ],
+        "regions": [
+            "Riverlands"
+        ],
+         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCBPAjVQeSSMfe8Xlz6ihwp5rECKoGIJJlQ&s"
+    },
+    {
+        "name": "Tully",
+        "characters": [
+            "Brynden Tully",
+            "Edmure Tully"
+        ],
+        "regions": [
+            "Riverlands"
+        ],
+         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6EWmdAUagE-oC25ElIktnFXyWteIpZ3MZg&s"
+    },
+    {
+        "name": "White Walkers",
+        "characters": [
+            "Mag the Mighty Wight",
+            "The Night King",
+            "White Walker",
+            "Wight Wildling Girl",
+            "Wun Wun Wight"
+        ],
+        "regions": []
+    },
+    {
+        "name": "Include",
+        "characters": [
+            "Archmaester Ebrose",
+            "Barristan Selmy",
+            "Beric Dondarrion",
+            "Brienne of Tarth",
+            "Bronn",
+            "Daario Naharis",
+            "Davos Seaworth",
+            "Gendry",
+            "Grand Maester Pycelle",
+            "Greatjon Umber",
+            "Gregor Clegane",
+            "Greizhen mo Ullhor",
+            "Grey Worm",
+            "Hallyne",
+            "High Sparrow",
+            "Hizdahr zo Loraq",
+            "Hodor",
+            "Hot Pie",
+            "Janos Slynt",
+            "Jaqen H'ghar",
+            "Jojen Reed",
+            "Jorah Mormont",
+            "Jory Cassel",
+            "Kraznys mo Nakloz",
+            "Lady Crane",
+            "Leaf",
+            "Locke",
+            "Lommy Greenhands",
+            "Lord Varys",
+            "Lyanna Mormont",
+            "Lysa Arryn",
+            "Maester Luwin",
+            "Matthos Seaworth",
+            "Meera Reed",
+            "Melisandre",
+            "Mirri Maz Duur",
+            "Missandei",
+            "Olyvar",
+            "Petyr Baelish",
+            "Podrick Payne",
+            "Prendahl na Ghezn",
+            "Pyat Pree",
+            "Qyburn",
+            "Ramsay Snow",
+            "Razdal mo Eraz",
+            "Rickard Karstark",
+            "Robin Arryn",
+            "Rodrik Cassel",
+            "Roose Bolton",
+            "Ros",
+            "Salladhor Saan",
+            "Sandor Clegane",
+            "Septa Mordane",
+            "Septa Unella",
+            "Shae",
+            "Silk King",
+            "Smalljon Umber",
+            "Syrio Forel",
+            "Talisa Maegyr",
+            "The Waif",
+            "Thoros of Myr",
+            "Three-Eyed Raven",
+            "Xaro Xhoan Daxos",
+            "Yezzan zo Qaggaz",
+            "Yohn Royce"
+        ],
+        "regions": []
+    }
+]
